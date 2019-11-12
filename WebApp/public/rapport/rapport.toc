@@ -1,0 +1,15 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{2}% 
+\contentsline {section}{\numberline {2}Réalisation}{2}% 
+\contentsline {subsection}{\numberline {2.1}Description de l'application}{2}% 
+\contentsline {subsection}{\numberline {2.2}Outils utilisés}{5}% 
+\contentsline {subsection}{\numberline {2.3}Environnement}{5}% 
+\contentsline {subsubsection}{\numberline {2.3.1}La répartition et l'ordonnancement des tâches}{5}% 
+\contentsline {subsection}{\numberline {2.4}Architecture}{6}% 
+\contentsline {subsection}{\numberline {2.5}Résultats obténus}{6}% 
+\contentsline {section}{\numberline {3}Bilan du projet}{7}% 
+\contentsline {subsection}{\numberline {3.1}Points positifs}{7}% 
+\contentsline {subsection}{\numberline {3.2}Points à améliorer}{7}% 
+\contentsline {subsection}{\numberline {3.3}Conclusion}{7}% 
+\contentsline {section}{\numberline {4}Annexe}{8}% 
+\contentsline {subsection}{\numberline {4.1}Code source}{8}% 
